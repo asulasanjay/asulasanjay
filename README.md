@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asulasanjay
 - 👀 I’m interested in creating projects,websites.
-- 🌱 I’m currently learning java,HTML,CSS.
+- 🌱 I’m currently doing project in NARL_Tirupati
 - 💞️ I’m looking to collaborate on websites.
 - 📫 How to reach me asulasanjay@gmail.com
 
